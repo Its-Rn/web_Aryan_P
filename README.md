@@ -1,2 +1,2 @@
-# Prajakta-Birthday
-Happy Birthday My Happpines
+# BirthdayCelebration
+birthday celebration using html css and javascript
